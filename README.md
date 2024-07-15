@@ -1,2 +1,3 @@
 # Test1
-Learning Git &amp; GitHub
+Learning Git &amp; GitHub <br/>
+Author - Muaaj Sombare
